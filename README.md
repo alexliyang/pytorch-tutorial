@@ -1,4 +1,4 @@
-# pytorch-tutorial
+# Pytorch-tutorial
 This is a coding repo for pytorch tutorial. It works on CPU.
 This repo mainly focus on linear model, softmax model, cnn model and inception model
 
