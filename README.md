@@ -45,8 +45,11 @@ This repo mainly focus on linear model, softmax model, cnn model and inception m
       $ python incpetion_v1.py
 
 ## simple_rnn.py
+  (1) build a directory named model
       
-  (1) training & testing
+      $ mkdir model
+      
+  (2) training & testing
   
       $ python simple_rnn.py
 
